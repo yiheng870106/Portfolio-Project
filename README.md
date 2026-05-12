@@ -12,4 +12,4 @@ COST, GLD, TSM, VNQ, VXUS, XLE, XLU, XLV
 - Market portfolio
 - Backtest 3-month performance
 
-![Expected Return vs Standard Deviation](main/Expected Return vs Standard Deviation.png)
+![Expected Return vs Standard Deviation](main/Expected_Return_vs_Standard_Deviation.png.png)
