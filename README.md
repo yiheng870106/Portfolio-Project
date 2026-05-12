@@ -11,3 +11,5 @@ COST, GLD, TSM, VNQ, VXUS, XLE, XLU, XLV
 - Minimum variance portfolio
 - Market portfolio
 - Backtest 3-month performance
+
+![Expected Return vs Standard Deviation](Expected Return vs Standard Deviation.png)
